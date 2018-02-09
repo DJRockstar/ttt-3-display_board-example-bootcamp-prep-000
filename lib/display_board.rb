@@ -5,7 +5,7 @@ def display_board
   #  "   ",'|',"   ",'|',"   ",
   #  "-----------"
   #  "   ",'|',"   ",'|',"   " ]
-  print arr
+  return arr
 end
 
 display_board
